@@ -44,4 +44,17 @@ npm install
 ```
 make start-frontend
 make start
+
 ```
+![autorization](https://github.com/user-attachments/assets/8c047bf4-71e7-4800-ba62-46852c3a7b80)
+
+
+
+
+
+
+
+
+
+
+
